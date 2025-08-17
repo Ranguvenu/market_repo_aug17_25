@@ -1,0 +1,268 @@
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+An error occurred: 'NoneType' object is not reversible
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+An error occurred: 'NoneType' object is not reversible
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+An error occurred: 'NoneType' object is not reversible
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Not got candles. And the error is: HTTPSConnectionPool(host='apiconnect.angelbroking.com', port=443): Max retries exceeded with url: /rest/secure/angelbroking/historical/v1/getCandleData (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4a43be8e0>, 'Connection to apiconnect.angelbroking.com timed out. (connect timeout=7)'))
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+An error occurred: list index out of range
+Attempting to reconnect...
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': []}
+Power nap++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453700CE', 'symboltoken': '55252'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453600CE', 'symboltoken': '55250'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453500CE', 'symboltoken': '55248'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453400CE', 'symboltoken': '55244'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453300CE', 'symboltoken': '55240'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453200CE', 'symboltoken': '55238'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453100CE', 'symboltoken': '55236'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453000CE', 'symboltoken': '55234'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452900CE', 'symboltoken': '55232'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452800CE', 'symboltoken': '55230'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452700CE', 'symboltoken': '55228'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452600CE', 'symboltoken': '55226'}]}
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+option_ltplist: [{'55234': 342.95}, {'55244': 193.9}, {'55232': 390.45}, {'55238': 260.95}, {'55248': 166.55}, {'55226': 556.1}, {'55236': 300.5}, {'55228': 498.15}, {'55252': 119.95}, {'55230': 441.6}, {'55240': 226.6}]
+token names: {'55252': 'BANKNIFTY31JUL2453700CE', '55250': 'BANKNIFTY31JUL2453600CE', '55248': 'BANKNIFTY31JUL2453500CE', '55244': 'BANKNIFTY31JUL2453400CE', '55240': 'BANKNIFTY31JUL2453300CE', '55238': 'BANKNIFTY31JUL2453200CE', '55236': 'BANKNIFTY31JUL2453100CE', '55234': 'BANKNIFTY31JUL2453000CE', '55232': 'BANKNIFTY31JUL2452900CE', '55230': 'BANKNIFTY31JUL2452800CE', '55228': 'BANKNIFTY31JUL2452700CE', '55226': 'BANKNIFTY31JUL2452600CE'}
+Resultant Option for you: {'token': '55252', 'price': 1799.25, 'symbol': 'BANKNIFTY31JUL2453700CE', 'shareprice': 119.95}
+Resultant option: {'token': '55252', 'price': 1799.25, 'symbol': 'BANKNIFTY31JUL2453700CE', 'shareprice': 119.95}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453700CE', 'symboltoken': '55252'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453600CE', 'symboltoken': '55250'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453500CE', 'symboltoken': '55248'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453400CE', 'symboltoken': '55244'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453300CE', 'symboltoken': '55240'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453200CE', 'symboltoken': '55238'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453100CE', 'symboltoken': '55236'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453000CE', 'symboltoken': '55234'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452900CE', 'symboltoken': '55232'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452800CE', 'symboltoken': '55230'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452700CE', 'symboltoken': '55228'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2452600CE', 'symboltoken': '55226'}]}
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+in appending:
+option_ltplist: [{'55234': 339.85}, {'55244': 192.65}, {'55232': 386.8}, {'55238': 258.95}, {'55248': 165.4}, {'55226': 551.5}, {'55236': 297.45}, {'55228': 492.9}, {'55252': 119.25}, {'55230': 438.3}, {'55240': 224.1}]
+token names: {'55252': 'BANKNIFTY31JUL2453700CE', '55250': 'BANKNIFTY31JUL2453600CE', '55248': 'BANKNIFTY31JUL2453500CE', '55244': 'BANKNIFTY31JUL2453400CE', '55240': 'BANKNIFTY31JUL2453300CE', '55238': 'BANKNIFTY31JUL2453200CE', '55236': 'BANKNIFTY31JUL2453100CE', '55234': 'BANKNIFTY31JUL2453000CE', '55232': 'BANKNIFTY31JUL2452900CE', '55230': 'BANKNIFTY31JUL2452800CE', '55228': 'BANKNIFTY31JUL2452700CE', '55226': 'BANKNIFTY31JUL2452600CE'}
+Resultant Option for you: {'token': '55252', 'price': 1788.75, 'symbol': 'BANKNIFTY31JUL2453700CE', 'shareprice': 119.25}
+Resultant option: {'token': '55252', 'price': 1788.75, 'symbol': 'BANKNIFTY31JUL2453700CE', 'shareprice': 119.25}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453700CE', 'symboltoken': '55252'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453600CE', 'symboltoken': '55250'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453500CE', 'symboltoken': '55248'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453400CE', 'symboltoken': '55244'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453300CE', 'symboltoken': '55240'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453200CE', 'symboltoken': '55238'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453100CE', 'symboltoken': '55236'}]}
+for name: {'status': True, 'message': 'SUCCESS', 'errorcode': '', 'data': [{'exchange': 'NFO', 'tradingsymbol': 'BANKNIFTY31JUL2453000CE', 'symboltoken': '55234'}]}
+Traceback (most recent call last):
+  File "/var/www/html/market/example/Transactions.py", line 36, in <module>
+    dates = stream_into_flow(obj,data)
+  File "/var/www/html/market/example/lib.py", line 659, in stream_into_flow
+    flowfilterv = flowfilter(Historion, current_params['todate'], connection_data, connection_obj)
+  File "/var/www/html/market/example/Strategy.py", line 107, in flowfilter
+    resultant_option = pickup_fromstream(connection_obj, connection_data)
+  File "/var/www/html/market/example/optionslib.py", line 35, in pickup_fromstream
+    ranger_options = ranger_options_tokens(obj)
+  File "/var/www/html/market/example/optionslib.py", line 122, in ranger_options_tokens
+    time.sleep(1)
+KeyboardInterrupt

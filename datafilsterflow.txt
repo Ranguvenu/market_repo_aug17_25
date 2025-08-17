@@ -1,0 +1,42 @@
+This is current closing: 50695.5
+Testing at: 2024-06-03 11:35
+its out of flow9stage
+This is current closing: 50759.65
+Testing at: 2024-06-03 11:40
+its out of flow9stage
+This is current closing: 50804.75
+Testing at: 2024-06-03 11:45
+in stage
+flow_one_one
+flow_one_one copied
+flow_one_one_six --- stage_three
+flow_one_one_six --- stage_three
+flow_one_one_six_eight ---- stage_four
+This is current closing: 50834.15
+Testing at: 2024-06-03 11:50
+in stage
+flow_one_four
+flow_one_four copied
+flow_one_four_three
+flow_one_four copied two
+flow_one_four copied two
+flow_one_four_three stage_two_for_stage_three copied
+flow_one_four copied two
+flow_one_four copied two
+flow_one_four copied two
+This is current closing: 50931.0
+Testing at: 2024-06-03 11:55
+in stage
+flow_one_four
+flow_one_four copied
+flow_one_four_six Verified
+flow_one_four copied two
+flow_one_four copied two
+flow_one_four copied two
+flow_one_four copied two
+flow_one_four copied two
+flow_one_four_six stage_two_starts_stage_three copied
+flow_one_four_six_three stage_three
+This is current closing: 50889.35
+Testing at: 2024-06-03 12:00
+its out of flow9stage

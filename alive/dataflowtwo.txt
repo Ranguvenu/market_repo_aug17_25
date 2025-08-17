@@ -1,0 +1,343 @@
+Now we are at: 2024-07-01 11:55
+Second flow has been called. now the current is: 52545.1
+It's out of second flow
+Now we are at: 2024-07-01 11:55
+Second flow has been called. now the current is: 52545.1
+It's out of second flow
+Now we are at: 2024-07-03 10:10
+Second flow has been called. now the current is: 53074.4
+It's out of second flow
+Now we are at: 2024-07-03 10:15
+Second flow has been called. now the current is: 53065.4
+It's out of second flow
+Now we are at: 2024-07-03 10:20
+Second flow has been called. now the current is: 53050.95
+It's out of second flow
+Now we are at: 2024-07-03 10:25
+Second flow has been called. now the current is: 53211.75
+It's out of second flow
+Now we are at: 2024-07-03 10:30
+Second flow has been called. now the current is: 53151.75
+It's out of second flow
+Now we are at: 2024-07-03 10:35
+Second flow has been called. now the current is: 53136.1
+It's out of second flow
+Now we are at: 2024-07-03 10:40
+Second flow has been called. now the current is: 53158.75
+It's out of second flow
+Now we are at: 2024-07-03 10:45
+Second flow has been called. now the current is: 53115.85
+It's out of second flow
+Now we are at: 2024-07-03 10:50
+Second flow has been called. now the current is: 53117.6
+It's out of second flow
+Now we are at: 2024-07-03 10:55
+Second flow has been called. now the current is: 53142.0
+It's out of second flow
+Now we are at: 2024-07-03 11:00
+Second flow has been called. now the current is: 53102.75
+It's out of second flow
+Now we are at: 2024-07-03 11:05
+Second flow has been called. now the current is: 53080.65
+It's out of second flow
+Now we are at: 2024-07-03 11:10
+Second flow has been called. now the current is: 53046.9
+It's out of second flow
+Now we are at: 2024-07-03 11:15
+Second flow has been called. now the current is: 53066.5
+It's out of second flow
+Now we are at: 2024-07-03 11:20
+Second flow has been called. now the current is: 53027.25
+It's out of second flow
+Now we are at: 2024-07-03 11:25
+Second flow has been called. now the current is: 53045.4
+It's out of second flow
+Now we are at: 2024-07-03 11:30
+Second flow has been called. now the current is: 53083.25
+flow_two -stage_one
+flow_two_three
+flow_two_three ---stage_three_starts -copied
+flow_two_three_four ---stage_three
+flow_two_three ---stage_three_starts_for_four --copied2
+flow_two_three ---stage_four_starts -copied
+flow_two_three ---stage_four_starts -copied
+flow_two_three ---stage_four_starts -copied
+flow_two_three_four ---stage_three
+Now we are at: 2024-07-03 11:35
+Second flow has been called. now the current is: 53076.55
+It's out of second flow
+Now we are at: 2024-07-03 11:40
+Second flow has been called. now the current is: 53083.25
+It's out of second flow
+Now we are at: 2024-07-03 11:45
+Second flow has been called. now the current is: 53099.3
+flow_two -stage_one
+flow_two_five --stage_two
+flow_two_five --stage_three_starts -copied
+flow_two_five_one --stage_three_starts
+Greening from here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Now we are at: 2024-07-03 11:45
+Second flow has been called. now the current is: 53099.3
+flow_two -stage_one
+flow_two_five --stage_two
+flow_two_five --stage_three_starts -copied
+flow_two_five_one --stage_three_starts
+Greening from here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Now we are at: 2024-07-03 12:45
+Second flow has been called. now the current is: 53109.0
+It's out of second flow
+Now we are at: 2024-07-03 12:50
+Second flow has been called. now the current is: 53116.45
+It's out of second flow
+Now we are at: 2024-07-03 12:55
+Second flow has been called. now the current is: 53109.55
+It's out of second flow
+Now we are at: 2024-07-03 13:00
+Second flow has been called. now the current is: 53106.85
+It's out of second flow
+Now we are at: 2024-07-03 13:05
+Second flow has been called. now the current is: 53068.9
+It's out of second flow
+Now we are at: 2024-07-03 13:10
+Second flow has been called. now the current is: 53084.15
+It's out of second flow
+Now we are at: 2024-07-03 13:15
+Second flow has been called. now the current is: 53098.85
+It's out of second flow
+Now we are at: 2024-07-03 13:20
+Second flow has been called. now the current is: 53109.35
+It's out of second flow
+Now we are at: 2024-07-03 13:25
+Second flow has been called. now the current is: 53114.35
+It's out of second flow
+Now we are at: 2024-07-03 14:55
+Second flow has been called. now the current is: 53069.7
+It's out of second flow
+Now we are at: 2024-07-03 15:05
+Second flow has been called. now the current is: 53103.85
+It's out of second flow
+Now we are at: 2024-07-03 15:10
+Second flow has been called. now the current is: 53110.0
+It's out of second flow
+Now we are at: 2024-07-03 15:15
+Second flow has been called. now the current is: 53106.15
+It's out of second flow
+Now we are at: 2024-07-03 15:20
+Second flow has been called. now the current is: 53078.8
+It's out of second flow
+Now we are at: 2024-07-03 15:25
+Second flow has been called. now the current is: 53042.15
+It's out of second flow
+Now we are at: 2024-07-03 15:25
+Second flow has been called. now the current is: 53042.15
+It's out of second flow
+Now we are at: 2024-07-03 15:30
+Second flow has been called. now the current is: 53042.15
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:20
+Second flow has been called. now the current is: 53123.35
+It's out of second flow
+Now we are at: 2024-07-04 09:25
+Second flow has been called. now the current is: 53147.3
+It's out of second flow
+Now we are at: 2024-07-04 09:30
+Second flow has been called. now the current is: 53165.05
+It's out of second flow
+Now we are at: 2024-07-04 09:35
+Second flow has been called. now the current is: 53097.45
+It's out of second flow
+Now we are at: 2024-07-04 09:35
+Second flow has been called. now the current is: 53097.45
+It's out of second flow
+Now we are at: 2024-07-04 09:40
+Second flow has been called. now the current is: 53190.85
+It's out of second flow
+Now we are at: 2024-07-04 09:45
+Second flow has been called. now the current is: 53180.3
+It's out of second flow
+Now we are at: 2024-07-04 09:50
+Second flow has been called. now the current is: 53163.7
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 09:55
+Second flow has been called. now the current is: 53204.6
+It's out of second flow
+Now we are at: 2024-07-04 10:00
+Second flow has been called. now the current is: 53182.7
+It's out of second flow
+Now we are at: 2024-07-04 10:00
+Second flow has been called. now the current is: 53182.7
+It's out of second flow
+Now we are at: 2024-07-04 10:05
+Second flow has been called. now the current is: 53205.85
+It's out of second flow
+Now we are at: 2024-07-04 10:10
+Second flow has been called. now the current is: 53180.05
+It's out of second flow
+Now we are at: 2024-07-04 10:15
+Second flow has been called. now the current is: 53154.35
+It's out of second flow
+Now we are at: 2024-07-04 10:20
+Second flow has been called. now the current is: 53054.4
+It's out of second flow
+Now we are at: 2024-07-04 10:25
+Second flow has been called. now the current is: 53066.75
+It's out of second flow
+Now we are at: 2024-07-04 10:30
+Second flow has been called. now the current is: 52954.3
+It's out of second flow
+Now we are at: 2024-07-04 10:35
+Second flow has been called. now the current is: 52898.05
+It's out of second flow
+Now we are at: 2024-07-04 10:40
+Second flow has been called. now the current is: 52911.9
+It's out of second flow
+Now we are at: 2024-07-04 10:45
+Second flow has been called. now the current is: 52879.85
+It's out of second flow
+Now we are at: 2024-07-04 10:50
+Second flow has been called. now the current is: 52868.95
+It's out of second flow
+Now we are at: 2024-07-04 10:55
+Second flow has been called. now the current is: 52860.3
+It's out of second flow
+Now we are at: 2024-07-04 11:00
+Second flow has been called. now the current is: 52871.6
+It's out of second flow
+Now we are at: 2024-07-04 11:00
+Second flow has been called. now the current is: 52871.6
+It's out of second flow

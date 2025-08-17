@@ -1,0 +1,5 @@
+[I 250411 12:32:01 optionslib:109] on open
+[E 250411 12:32:21 optionslib:119] Connection closed
+[W 250411 12:32:21 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[E 250411 12:32:21 optionslib:119] Connection closed
+[W 250411 12:32:21 smartWebSocketV2:343] Connection closed due to max retry attempts reached.

@@ -1,0 +1,79 @@
+[E 250515 21:27:43 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:28:33 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:29:08 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:30:59 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:33:12 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:33:31 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:33:49 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:34:17 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:34:35 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:34:58 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:35:14 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:37:29 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:37:53 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:38:19 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:38:40 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 21:49:12 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 22:15:50 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 22:17:25 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[E 250515 22:17:45 smartWebSocketV2:304] Error occurred during WebSocket connection: module 'websocket' has no attribute 'WebSocketApp'
+[I 250515 22:21:16 optionslib:98] on open
+[E 250515 22:26:15 optionslib:108] Connection closed
+[W 250515 22:26:15 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:26:15 optionslib:108] Connection closed
+[W 250515 22:26:15 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:26:16 optionslib:98] on open
+[E 250515 22:26:20 optionslib:108] Connection closed
+[W 250515 22:26:20 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:26:20 optionslib:108] Connection closed
+[W 250515 22:26:20 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:26:28 optionslib:98] on open
+[E 250515 22:26:48 optionslib:108] Connection closed
+[W 250515 22:26:48 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:26:48 optionslib:108] Connection closed
+[W 250515 22:26:48 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:26:48 optionslib:98] on open
+[E 250515 22:26:50 optionslib:108] Connection closed
+[W 250515 22:26:50 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:26:50 optionslib:108] Connection closed
+[W 250515 22:26:50 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:26:51 optionslib:98] on open
+[E 250515 22:26:52 optionslib:108] Connection closed
+[W 250515 22:26:52 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:26:52 optionslib:108] Connection closed
+[W 250515 22:26:52 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:27:01 optionslib:98] on open
+[E 250515 22:27:04 optionslib:108] Connection closed
+[W 250515 22:27:04 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:27:04 optionslib:108] Connection closed
+[W 250515 22:27:04 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:34:08 optionslib:98] on open
+[E 250515 22:34:25 optionslib:108] Connection closed
+[W 250515 22:34:25 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:34:25 optionslib:108] Connection closed
+[W 250515 22:34:25 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:34:36 optionslib:98] on open
+[E 250515 22:34:39 optionslib:108] Connection closed
+[W 250515 22:34:39 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:34:39 optionslib:108] Connection closed
+[W 250515 22:34:39 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:34:58 optionslib:98] on open
+[E 250515 22:35:05 optionslib:108] Connection closed
+[W 250515 22:35:05 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:35:05 optionslib:108] Connection closed
+[W 250515 22:35:05 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:35:34 optionslib:99] on open
+[E 250515 22:35:39 optionslib:109] Connection closed
+[W 250515 22:35:39 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:35:39 optionslib:109] Connection closed
+[W 250515 22:35:39 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:36:35 optionslib:101] on open
+[E 250515 22:36:59 optionslib:111] Connection closed
+[W 250515 22:36:59 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:36:59 optionslib:111] Connection closed
+[W 250515 22:36:59 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[I 250515 22:37:04 optionslib:101] on open
+[E 250515 22:37:11 optionslib:111] Connection closed
+[W 250515 22:37:11 smartWebSocketV2:344] Connection closed due to max retry attempts reached.
+[E 250515 22:37:11 optionslib:111] Connection closed
+[W 250515 22:37:11 smartWebSocketV2:344] Connection closed due to max retry attempts reached.

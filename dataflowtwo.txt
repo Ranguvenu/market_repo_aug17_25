@@ -1,0 +1,30 @@
+Now we are at: 2024-06-03 11:35
+Second flow has been called. now the current is: 50695.5
+It's out of second flow
+Now we are at: 2024-06-03 11:40
+Second flow has been called. now the current is: 50759.65
+flow_two -stage_one
+flow_two_three
+flow_two_three ---stage_three_starts -copied
+flow_two_three_two ---stage_three
+Greening from here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Greening from here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Confirmed
+Duplicate entry found. Skipping insertion.
+flow_two_three ---stage_three_starts_for_four --copied2
+flow_two_three ---stage_four_starts -copied
+flow_two_three_two ---stage_four_starts
+flow_two_three_two_one _starts_started
+flow_two_three ---stage_four_starts -copied
+flow_two_three ---stage_four_starts -copied
+Now we are at: 2024-06-03 11:45
+Second flow has been called. now the current is: 50804.75
+It's out of second flow
+Now we are at: 2024-06-03 11:50
+Second flow has been called. now the current is: 50834.15
+It's out of second flow
+Now we are at: 2024-06-03 11:55
+Second flow has been called. now the current is: 50931.0
+It's out of second flow
+Now we are at: 2024-06-03 12:00
+Second flow has been called. now the current is: 50889.35
+It's out of second flow

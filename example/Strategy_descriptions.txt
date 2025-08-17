@@ -1,0 +1,18 @@
+The purpose:
+
+In india awareness on Stock market is increasing very rapidly and people are more willing to invest in stock market and trading in stock market aswel. mostly investment happend by fundamental enalysis and trading happend by technical analysis. if my guess is right when it comes to trading option trading and here is the problem people are facing and want to give the sollution for that problem. 
+
+The problem is as per SEBI report 90 percent of option trader are loosing money and in the remaining 10 percent mostly there are algo traders. above all traders means retail traders.
+Currently the algo trading is limited to developer(Person who knows coding) only. Here my proposal is to extend this limit to non developers and i want to give the new upcoming trader to the exposser of automatic trading. 
+
+
+To do that my proposal is to create a web application where we have facility of API integration of all popular Trading apps like AngelOne, Zarodha, 5paisa etc.
+In that web appication we provide option tomselect the app after selecting the we ask user to enter api credential like Token, User code, password whatever is need for that paticluar app integration. after valid creadentiols the home page of our web application will open. 
+
+Home:
+we have one tab of "Make Technical Strategy", "Make Fundamental Strategy" ect. (If i get any other ideas). for now we only concetrate on "Making Technical Strategy".
+
+after clicing on the "Make Technical Strategy" user is redirected to "Technical Dashboard".
+
+In Technical Dashboard we have drop dow to select number of candles which involves in the strategy. if the user selected 25 candidles with AJAX we load all possible patterns(Images) with 25 candles will shown like image tiles. ANd user can check the all images(User can also selct only one pattern) which ever he want to the system to consider as a signal after selecting the signal patterns below that he should select selected pattern is a bullish or bearish.after that user need to select the exit patterns or exit price or exit profit and stop loss price stock or index or stop loss pettern or stop loss amount. after all this user need to select the on which index or stock he wants to implement this strategy. if it is non index 
+then user need to select the will he want to exicute this strategy on equity shares  or any partycular option or teh strategy signal comes fromt the index or company shares price and order exicution will be happend on selected options of that index or share. I mean to say the system will check the petterns on the index but if the signal satisfied order is placed on selected option.

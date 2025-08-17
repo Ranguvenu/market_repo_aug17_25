@@ -1,0 +1,23 @@
+High fiving at: 2024-06-03 11:35
+after flow1
+saijdisdisjidrr
+High fiving at: 2024-06-03 11:40
+after flow2
+saijdisdisjidrr
+High fiving at: 2024-06-03 11:45
+after flow3
+saijdisdisjidrr
+High fiving at: 2024-06-03 11:50
+after flow4
+saijdisdisjidrr
+High fiving at: 2024-06-03 11:55
+after flow5
+saijdisdisjidrr
+High fiving at: 2024-06-03 12:00
+after flow6
+Traceback (most recent call last):
+  File "/var/www/html/market/Forword_testing/rider.py", line 17, in <module>
+    dates = forword_testing(connecting_object, current_date, history_date)
+  File "/var/www/html/market/Forword_testing/lib.py", line 66, in forword_testing
+    time.sleep(1)  # Sleep for "Intervel" seconds before running again
+KeyboardInterrupt
